@@ -1,0 +1,18 @@
+{
+  "tag-pane:open": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "T"
+    }
+  ],
+  "outline:open-for-current": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "O"
+    }
+  ]
+}

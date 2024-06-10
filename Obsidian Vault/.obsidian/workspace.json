@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "81696d896f8be7ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab8d383242b11c39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d949bde665b5fe7a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74b1e41986e42054",
+    "type": "split",
+    "children": [
+      {
+        "id": "4124a31947e0eafb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91e56443ba2c211f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e31062cccff93db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "815c5a62141a31c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "789481731565d9a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "dc4bebb43544ef3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4b0047f482caeba",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "right": {
+    "id": "98c3499486debf40",
+    "type": "split",
+    "children": [
+      {
+        "id": "288ef942cde7cbe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5e38e23acc5a45a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87fa79e0ca268a22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76579567bfcda888",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "de12ed5f5c1848e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "140a3248732d9e00",
+            "type": "leaf",
+            "state": {
+              "type": "setup-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 417.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "d949bde665b5fe7a",
+  "lastOpenFiles": [
+    "AWS/Pasted image 20230125095916.png",
+    "AWS/Pasted image 20230125095916 1.png",
+    "AWS/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf",
+    "AWS/AWS-Certified-Cloud-Practitioner_Sample-Questions 1.pdf",
+    "AWS/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf",
+    "AWS/AWS-Certified-Cloud-Practitioner_Exam-Guide 1.pdf",
+    "AWS/AWS Cloud Practioner.md",
+    "AWS",
+    "Hardware/Workstation/Workstation Software Configs/Workstation Software Config.md",
+    "Hardware/Workstation/Workstation Software Configs/Brother ADS-1000W Scanner.md",
+    "Hardware/Workstation/Workstation Software Configs/Bluetooth.md",
+    "Hardware/Workstation/Workstation Hardware Configs/Workstation Hardware Config.md",
+    "Hardware/Workstation/Workstation Software Configs",
+    "Hardware/Workstation/Workstation Setup.md",
+    "Hardware/Workstation/Workstation Roadmap.md",
+    "Hardware/Workstation/Workstation Philosophy.md",
+    "Hardware/Workstation/Workstation Hardware Configs",
+    "Hardware/HomeLab/Dell R710.md",
+    "Hardware/Workstation",
+    "Hardware/Host Naming Conventions.md",
+    "Hardware/HomeLab",
+    "Hardware",
+    "2024-04-15.md",
+    "WhiteCap.md",
+    "Unraid/Unraid.md",
+    "Unraid/Unraid-GPU-Passthru.md",
+    "2024-04-16.md",
+    "Debian Related/Pasted image 20230228132927.png",
+    "Debian Related/Pasted image 20230228132908.png",
+    "Debian Related/Pasted image 20230228132847.png",
+    "Debian Related/Pasted image 20230228132805.png",
+    "Debian Related/Pasted image 20230228113049.png",
+    "Debian Related/Pasted image 20230228112958.png",
+    "Debian Related/Pasted image 20230228112938.png",
+    "Debian Related/Pasted image 20230228112827.png",
+    "Debian Related/Debian.md",
+    "Debian Related/Debian Linux.md",
+    "Proxmox/Proxmox.md",
+    "Proxmox/Proxmox-NVidia-Driver-Installation.md",
+    "Suckless.md",
+    "Fedora Silverblue Related/RPMFusion.md",
+    "Fedora Silverblue Related/RPM-OSTree.md",
+    "Fedora Silverblue Related/Fedora Silverblue.md",
+    "Fedora Silverblue Related/Distrobox.md",
+    "Fedora Silverblue Related/BTRFS.md",
+    "FreeBSD/image.png",
+    "Untitled.canvas"
+  ]
+}
