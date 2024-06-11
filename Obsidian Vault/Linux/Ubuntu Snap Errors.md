@@ -1,4 +1,4 @@
-When using Ubuntu, the sanp packages sometimes cause an error when updating and are currently running in the examples of Spotify and Firefox which are always running on my workstation.
+When using [[Ubuntu]], the [[Snap]] packages sometimes cause an error when updating and are currently running in the examples of [[Spotify]] and Firefox which are always running on my workstation.
 
 Snap Documentation
 https://snapcraft.io/docs/keeping-snaps-up-to-date
@@ -10,4 +10,4 @@ Then tell snapd to update all snaps:
 
 `sudo snap refresh`
 
-#Ubuntu 
+[[Linux]] [[Ubuntu]] 

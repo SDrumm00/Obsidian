@@ -1,6 +1,7 @@
 # Pantheon Software Config
 
 #Pantheon #Linux #FreeBSD
+[[Pantheon]] [[Workstation Setup]] [[Debian Related/Debian|Debian]] 
 
 ## 3 - Config Files Installed from GitLab
 

@@ -1,9 +1,24 @@
-## Step 1: Install Milvus from Docker
+---
+Created:
+  - 20240611 2:32 PM
+aliases: 
+tags:
+  - AI
+  - Docker
+  - Ollama
+  - Machine-Learning
+Subject: 
+Note Links:
+---
+# Abstract
+[[Machine Learning]] [[AI]]  [[Docker]] [[Ollama]]
+
+## Step 1: Install [[Milvus]] from [[Docker]]
 Get the pre-reqs out of the way.
 1) Docker Installation
 2) Milvus docker pull
 
-## Step 2: Connect Milvus to Ollama
+## Step 2: Connect Milvus to [[Ollama]]
 Set up the OLLMA configuration file to connect to your VDB. This typically involves specifying the VDB location, authentication 
 credentials, and any other relevant settings.
 
