@@ -9,7 +9,7 @@ Subject: Obsidian Templates
 ---
 ------------------------------------
 You can use Templates to insert pre-defined snippets of text into your active note.
-
+[[A Second Brain/Obsidian/Learn Obsidian|Learn Obsidian]] [[Building a Second Brain]]
 ## Set your template folder
 
 1. In the bottom-left corner, click **Settings** (cog icon).
