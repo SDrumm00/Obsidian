@@ -1,7 +1,7 @@
 ![[Debian Related/Pasted image 20230228132927.png]]
 Is this my forever Linux home? Will I stop distro-hopping? 
 ## Why I like it
-So what is it about Debian that I like so much?
+So what is it about [[Debian]] that I like so much?
 Well, the other day, I just got it to work for every possible use case I have for a Linux distribution.
 
 1) [[Machine Learning]] (specifically Anaconda software)

@@ -36,7 +36,7 @@ Here is where I am picking up from [[2023 Learning Goals]]
 
 <u>Learn Obsidian Note Taking</u>
 1) [[Personal/Goals/2024/Zettelkasten/Learn Obsidian]]
-2) [[Nix Packages 1]] Management for an immutable Debian?
+2) [[Nix Packages 1]] Management for an immutable [[Debian]]?
 
 ### Learning Plan Prioritization
 Based upon my research ([[Start Here]]), I think it prudent that the list be less IT focused and more introduction to Biology, botany, atmospheric and agricultural sciences relevant.

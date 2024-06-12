@@ -14,13 +14,13 @@ tags:
 Subject: GNU Emacs Learning
 ---
 -----------------------------
-# Downloading & Installing Emacs
+# Downloading & Installing [[Emacs]]
 
 [https://www.gnu.org/software/emacs/download.html#gnu-linux](https://www.gnu.org/software/emacs/download.html#gnu-linux)
 
-At the time of writing this document, I am using [Debian Linux](app://obsidian.md/Linux/Debian/Debian%20Linux) as my distro of choice so these instructions are tailored for that OS.
+At the time of writing this document, I am using [[Debian]] [[Linux]](app://obsidian.md/Linux/Debian/Debian%20Linux) as my distro of choice so these instructions are tailored for that OS.
 
-Emacs runs on several operating systems regardless of the machine type. The main ones are: GNU, GNU/Linux, FreeBSD, NetBSD, OpenBSD, MacOS, MS Windows and Solaris.
+Emacs runs on several operating systems regardless of the machine type. The main ones are: GNU, GNU/Linux, [[FreeBSD]], NetBSD, OpenBSD, MacOS, MS Windows and Solaris.
 
 You can download GNU Emacs releases from a [nearby GNU mirror](http://ftpmirror.gnu.org/emacs/); or if automatic redirection does not work see the list of [GNU mirrors](https://www.gnu.org/order/ftp.html), or use the [main GNU ftp](http://ftp.gnu.org/gnu/emacs) server.
 

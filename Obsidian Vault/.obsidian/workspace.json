@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab8d383242b11c39",
+        "id": "12985d752b6b4071",
         "type": "tabs",
         "children": [
           {
-            "id": "d949bde665b5fe7a",
+            "id": "ef5b47a4313eff41",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -71,26 +71,10 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "dc4bebb43544ef3e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c4b0047f482caeba",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 255.5
   },
   "right": {
     "id": "98c3499486debf40",
@@ -173,8 +157,62 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d949bde665b5fe7a",
+  "floating": {
+    "id": "3bd6b336d0bcf3a8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8719ec1d16004f34",
+        "type": "window",
+        "children": [
+          {
+            "id": "cad825f87406db99",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c4b0047f482caeba",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1187,
+        "y": 56,
+        "width": 1349,
+        "height": 1360,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ef5b47a4313eff41",
   "lastOpenFiles": [
+    "VSCode and SSH.md",
+    "Linux/ARP.md",
+    "Linux/Networking/ARP.md",
+    "Linux/Debian/Debian.md",
+    "ARP 1.md",
+    "Personal/Goals/2024/2024 Learning Goals.md",
+    "Debian Related/Debian.md",
+    "Nix Packages 1.md",
+    "Proxmox/Proxmox-NVidia-Driver-Installation.md",
+    "2024-04-15.md",
+    "FreeBSD/FreeBSD-Bhyve.md",
+    "Linux/Emacs/Emacs Installation.md",
+    "Linux/Nix Packages.md",
+    "Linux/NixOS/Nix Packages.md",
+    "smart-chats/UNTITLED CHAT 2024-05-17 15 45 22.md",
+    "Linux/Emacs/Doom Emacs.md",
+    "Linux/Debian/Debian Linux.md",
+    "AI/Machine Learning.md",
+    "Debian Related/Debian Linux.md",
     "AWS/Pasted image 20230125095916.png",
     "AWS/Pasted image 20230125095916 1.png",
     "AWS/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf",
@@ -190,18 +228,10 @@
     "Hardware/Workstation/Workstation Software Configs",
     "Hardware/Workstation/Workstation Setup.md",
     "Hardware/Workstation/Workstation Roadmap.md",
-    "Hardware/Workstation/Workstation Philosophy.md",
     "Hardware/Workstation/Workstation Hardware Configs",
-    "Hardware/HomeLab/Dell R710.md",
     "Hardware/Workstation",
-    "Hardware/Host Naming Conventions.md",
     "Hardware/HomeLab",
     "Hardware",
-    "2024-04-15.md",
-    "WhiteCap.md",
-    "Unraid/Unraid.md",
-    "Unraid/Unraid-GPU-Passthru.md",
-    "2024-04-16.md",
     "Debian Related/Pasted image 20230228132927.png",
     "Debian Related/Pasted image 20230228132908.png",
     "Debian Related/Pasted image 20230228132847.png",
@@ -210,17 +240,6 @@
     "Debian Related/Pasted image 20230228112958.png",
     "Debian Related/Pasted image 20230228112938.png",
     "Debian Related/Pasted image 20230228112827.png",
-    "Debian Related/Debian.md",
-    "Debian Related/Debian Linux.md",
-    "Proxmox/Proxmox.md",
-    "Proxmox/Proxmox-NVidia-Driver-Installation.md",
-    "Suckless.md",
-    "Fedora Silverblue Related/RPMFusion.md",
-    "Fedora Silverblue Related/RPM-OSTree.md",
-    "Fedora Silverblue Related/Fedora Silverblue.md",
-    "Fedora Silverblue Related/Distrobox.md",
-    "Fedora Silverblue Related/BTRFS.md",
-    "FreeBSD/image.png",
     "Untitled.canvas"
   ]
 }

@@ -70,7 +70,7 @@ Reboot the virtual machine. While rebooting the virtual machine causes bhyve to 
 
     # sh /usr/share/examples/bhyve/vmrun.sh -c 4 -m 1024M -t tap0 -d freebsdguest.img freebsd
 
-## Step 2.1: Creating a Linux® Guest
+## Step 2.1: Creating a [[Linux]]® Guest
 
 **Dependencies:**
 
@@ -85,9 +85,9 @@ Next, create a file to use as the virtual disk for the guest machine:
 Starting a virtual machine with bhyve is a two step process. First a kernel must be loaded, then the guest can be started. The Linux® kernel is loaded with sysutils/grub2-bhyve. Create a device.map that grub will use to map the virtual devices to the files on the host system:
 
     (hd0) ./linux.img
-    (cd0) ./somelinux.iso -- this is the Linux of choice here such as Ubuntu/Debian/Arch
+    (cd0) ./somelinux.iso -- this is the Linux of choice here such as [[Ubuntu]][[Debian]] or [[Arch]]
 
-Use sysutils/grub2-bhyve to load the Linux® kernel from the ISO image:
+Use sysutils/grub2-bhyve to load the Linux® kernel from the ISO image: [[Debian]]
 
     # grub-bhyve -m device.map -r cd0 -M 1024M linuxguest
 

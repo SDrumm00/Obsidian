@@ -1,6 +1,6 @@
 # How to Install Nvidia Drivers on [[Proxmox]]
 
-#Proxmox #PVE #NVidia #Linux #Debian
+[[Proxmox]]  [[NVidia]] [[Linux]] [[Debian]]
 
 1. Your `/etc/apt/sources.list` should look like this:
 ```bash

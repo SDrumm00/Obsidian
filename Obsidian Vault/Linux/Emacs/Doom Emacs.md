@@ -15,7 +15,7 @@ tags:
 Subject: GNU Emacs Learning
 ---
 ----------------
-# What is Doom Emacs?
+# What is Doom [[Emacs]]?
 https://github.com/doomemacs
 "A configuration framework for GNU Emacs"
 
@@ -24,7 +24,7 @@ https://github.com/doomemacs
 Doom Emacs is a configuration framework for [GNU Emacs](https://www.gnu.org/software/emacs/) with an optional starter kit attached. It's tailored for [bankruptcy veterans](https://www.emacswiki.org/emacs/DotEmacsBankruptcy) seeking a faster, more reliable, and reproducible foundation for their next config, or for beginners who want a softer introduction to our favorite operating system.
 
 ## Getting Started
-On Debian Linux, run the below commands.
+On [[Debian]] [[Linux]], run the below commands.
 ### Quick Installation
 ```
 git clone --depth 1 --single-branch https://github.com/doomemacs/doomemacs ~/.config/emacs
