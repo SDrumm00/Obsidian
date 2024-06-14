@@ -12,7 +12,7 @@ Subject: Workstation Hardware Config
 ------------------------
 ## Workstation Hardware Config
 
-#Pantheon #Linux #FreeBSD
+[[Pantheon]] [[Linux]] [[FreeBSD]]
 
 ### Build Philosophy
 I want hardware that works with [[FreeBSD]] so I used the hardware compatibility list located [HERE](https://www.freebsd.org/releases/13.0R/hardware/) to build Pantheon with.

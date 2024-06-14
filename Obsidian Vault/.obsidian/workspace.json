@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47f0e4c07d813f70",
+            "id": "7f83308aed9f16fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hardware/Workstation/Workstation Hardware Configs/Workstation Hardware Config.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Pantheon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,9 +188,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 1187,
+        "x": 1292,
         "y": 56,
-        "width": 1349,
+        "width": 1244,
         "height": 1360,
         "maximize": false,
         "zoom": 0
@@ -194,6 +199,9 @@
   },
   "active": "c4b0047f482caeba",
   "lastOpenFiles": [
+    "Linux/Conky.md",
+    "Pantheon.md",
+    "Hardware/Workstation/Workstation Hardware Configs/Workstation Hardware Config.md",
     "smart-chats/UNTITLED CHAT 2024-05-20 07 54 08.md",
     "smart-chats/UNTITLED CHAT 2024-05-17 14 20 56.md",
     "smart-chats/UNTITLED CHAT 2024-05-20 08 00 57.md",
@@ -217,9 +225,6 @@
     "Linux/Networking/ARP.md",
     "ARP 1.md",
     "Debian Related/Debian.md",
-    "Proxmox/Proxmox-NVidia-Driver-Installation.md",
-    "2024-04-15.md",
-    "FreeBSD/FreeBSD-Bhyve.md",
     "AWS/Pasted image 20230125095916.png",
     "AWS/Pasted image 20230125095916 1.png",
     "AWS/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf",
