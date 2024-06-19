@@ -1,12 +1,16 @@
-# Printing in [[FreeBSD]]
-
-OS Version: FreeBSD 14-Release
-
-Date: 202040116
-
-Author: Scott Drumm
-
-Tags: #Unix #Linux #Hewlett-Packard
+---
+Created:
+  - 20240116 10:34 AM
+Subject: HP-Printer-M14-M17
+---
+--------------
+Note Links:
+- [[Unix]]
+- [[FreeBSD]]
+- [[Linux]]
+---------------------
+# Abstract
+## Printing in [[FreeBSD]]
 
 Citations: 
 - https://docs.freebsd.org/en/books/handbook/printing/#printing-other

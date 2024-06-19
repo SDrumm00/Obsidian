@@ -3,7 +3,7 @@
 **WHY** am I doing this? [[Career Change]]
 I think I am done with Risk Management. I have other skills in machine learning and IT in general and want to be more than a guy who runs experiments for def ears to fall on...
 
-Here is a good read [[Start Here]]
+Here is a good read [[Career and Education Planning]]
 
 <u>Basic Certs - CompTia Core</u>
 1) [IT Fundamentals](https://www.comptia.org/certifications/it-fundamentals#overview)

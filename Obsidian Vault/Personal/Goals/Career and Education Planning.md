@@ -1,17 +1,17 @@
 ---
 Created:
   - 20240314 1:22 PM
-aliases: 
-tags:
-  - learning
-  - goals
 Subject: Making My Own Life Better
 ---
 --------------------------------
-## Career and Education Planning
+Note Links
+- [[2023 Learning Goals]]
+- [[2024 Learning Goals]]
+-----------------
+
+# Abstract
 I need to make a change. Nationwide is dead to me.
 They just moved me under Cory, I hate my life. He's an idiot and I refuse to take any orders from him.
-
 ## Here is my plan
 Go somewhere that actually helps the world and can use my IT and AI skills.
 Places such as:
@@ -36,17 +36,5 @@ Will need to construct from scratch. Maybe copy this guys template. It's fancy h
 Repo cleanup time!
 
 -------------------
-## Living Situation for the Family
-I also want to get my current house ready for sale so my family and I can relocate to a warmer place. Ohio is the weather devil. I also want a place my children can grow up and have many opportunities to just live life, not work until they are dead like I have and my family before me.
 
-### Current Milestones
-- Finish back patio
-	- Hardscaping
-- Front yard landscaping refresh
-	- Rip out the bushes (Call Allscape)
-	- Bring in dirt and mulch
-	- Replace with new plants/bushes (TBD)
-	- Add flowers for the wife
-- Finish electrical that I ripped out in the basement
-- Replace water heater with new one (Service Experts)
  

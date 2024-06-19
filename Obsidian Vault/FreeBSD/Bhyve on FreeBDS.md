@@ -1,19 +1,18 @@
-# FreeBSD Bhyve
-
-Author: Scott Drumm
-
-Date: 20240118
-
-Tags: #FreeBSD #Linux #Virtualization #Hypervisors
-
+---
+Created:
+  - 20240118 10:25 AM
+Subject: Bhyve on FreeBSD
+---
+-----------
+Note Links
+- [[FreeBSD]]
+- [[Virtualization/Hypervisors]]
+---------------
+# Abstract
 Citations:
 - https://docs.freebsd.org/en/books/handbook/virtualization/
 
-
 ## Virtualization within [[FreeBSD]]
-
-__Abstract__
-
 Virtualization software allows
 multiple operating systems to run   simultaneously on the same
 computer. Such software systems for PCs often involve a host
@@ -85,9 +84,9 @@ Next, create a file to use as the virtual disk for the guest machine:
 Starting a virtual machine with bhyve is a two step process. First a kernel must be loaded, then the guest can be started. The Linux® kernel is loaded with sysutils/grub2-bhyve. Create a device.map that grub will use to map the virtual devices to the files on the host system:
 
     (hd0) ./linux.img
-    (cd0) ./somelinux.iso -- this is the Linux of choice here such as [[Ubuntu]][[Debian]] or [[Arch]]
+    (cd0) ./somelinux.iso -- this is the Linux of choice here such as Ubuntu, Debian or Arch
 
-Use sysutils/grub2-bhyve to load the Linux® kernel from the ISO image: [[Debian]]
+Use sysutils/grub2-bhyve to load the Linux® kernel from the ISO image: Debian
 
     # grub-bhyve -m device.map -r cd0 -M 1024M linuxguest
 
@@ -145,7 +144,6 @@ With the firmware in place, add the flags -l bootrom,/path/to/firmware to your b
     # bhyve -AHP -s 0:0,hostbridge -s 1:0,lpc \
     -s 2:0,virtio-net,tap1 -s 3:0,virtio-blk,./disk.img \
     -s 4:0,ahci-cd,./install.iso -c 4 -m 1024M \
-    -l bootrom,/usr/local/share/uefi-firmware/BHYVE_UEFI.fd \
     guest
 
 sysutils/bhyve-firmware also contains a CSM-enabled firmware, to boot guests with no UEFI support in legacy BIOS mode:

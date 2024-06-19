@@ -1,3 +1,13 @@
+---
+Created:
+  - 20240619 9:34 AM
+Subject: Learning Goals
+---
+-----------------
+Note Links
+- [[Personal/Goals/2024/Microsoft Learning|Microsoft Learning]]
+----------------
+# Abstract
 ## Learning Goals
 
 **WHY** am I doing this? [[Career Change]]
@@ -39,7 +49,7 @@ Here is where I am picking up from [[2023 Learning Goals]]
 2) [[Nix Packages 1]] Management for an immutable [[Debian]]?
 
 ### Learning Plan Prioritization
-Based upon my research ([[Start Here]]), I think it prudent that the list be less IT focused and more introduction to Biology, botany, atmospheric and agricultural sciences relevant.
+Based upon my research ([[Career and Education Planning]]), I think it prudent that the list be less IT focused and more introduction to Biology, botany, atmospheric and agricultural sciences relevant.
 
 **So:**
 1) [[AWS Cloud Practioner 1]] - [AWS Certified Cloud Practioner](https://aws.amazon.com/certification/certified-cloud-practitioner/?ch=sec&sec=rmg&d=1)

@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "12985d752b6b4071",
+        "id": "9082b3ec430df2cf",
         "type": "tabs",
         "children": [
           {
-            "id": "7f83308aed9f16fc",
+            "id": "8bae256c0f3edf28",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware/Workstation/Workstation Hardware Configs/Workstation Hardware Config.md",
+                "file": "My Mind.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -49,21 +51,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Pantheon",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "815c5a62141a31c0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -74,12 +68,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 342.5
   },
   "right": {
     "id": "98c3499486debf40",
@@ -144,15 +137,15 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 417.5,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -167,21 +160,19 @@
     "type": "floating",
     "children": [
       {
-        "id": "8719ec1d16004f34",
+        "id": "433b7260c5d3b7b6",
         "type": "window",
         "children": [
           {
-            "id": "cad825f87406db99",
+            "id": "9f4852df751d1a27",
             "type": "tabs",
             "children": [
               {
-                "id": "c4b0047f482caeba",
+                "id": "7e4396992a882841",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "graph",
-                  "state": {},
-                  "pinned": true
+                  "state": {}
                 }
               }
             ]
@@ -197,34 +188,34 @@
       }
     ]
   },
-  "active": "c4b0047f482caeba",
+  "active": "7e4396992a882841",
   "lastOpenFiles": [
+    "My Mind.md",
+    "Personal/Goals/2024/2024 Learning Goals.md",
+    "Linux/Linux.md",
+    "AI/Machine Learning.md",
+    "FreeBSD/FreeBSD.md",
+    "FreeBSD/Printing/Printing.md",
+    "printer.md",
+    "FreeBSD/Bhyve on FreeBDS.md",
+    "Microsoft Certified - Azure Fundamentals AZ-900.md",
+    "Personal/Goals/2024/Microsoft Learning.md",
+    "Fidelity.md",
+    "Retirement.md",
+    "Investments.md",
+    "Personal/Goals/Career and Education Planning.md",
+    "Family Plan.md",
+    "A Second Brain/Obsidian/templates/notes-template.md",
+    "Personal Capital.md",
+    "Finance.md",
+    "2024-06-18.md",
+    "Hardware/Workstation/Workstation Hardware Configs/Workstation Hardware Config.md",
     "Linux/Conky.md",
     "Pantheon.md",
-    "Hardware/Workstation/Workstation Hardware Configs/Workstation Hardware Config.md",
     "smart-chats/UNTITLED CHAT 2024-05-20 07 54 08.md",
     "smart-chats/UNTITLED CHAT 2024-05-17 14 20 56.md",
     "smart-chats/UNTITLED CHAT 2024-05-20 08 00 57.md",
     "smart-chats/UNTITLED CHAT 2024-05-17 15 04 21.md",
-    "Chats/New Chat.md",
-    "smart-chats/UNTITLED CHAT 2024-05-17 15 42 10.md",
-    "smart-chats/UNTITLED CHAT 2024-05-17 14 15 54.md",
-    "smart-chats/UNTITLED CHAT 2024-05-17 15 41 27.md",
-    "smart-chats/UNTITLED CHAT 2024-05-17 15 26 54.md",
-    "A Second Brain/Obsidian/Templates.md",
-    "smart-chats/UNTITLED CHAT 2024-05-17 13 46 07.md",
-    "smart-chats/UNTITLED CHAT 2024-05-17 13 38 27.md",
-    "smart-chats/UNTITLED CHAT 2024-05-17 13 33 55.md",
-    "Nix Packages 1.md",
-    "AWS Cloud Practioner 1.md",
-    "Personal/Goals/2024/2024 Learning Goals.md",
-    "Debian Related/Debian Linux.md",
-    "Linux/Debian/Debian.md",
-    "VSCode and SSH.md",
-    "Linux/ARP.md",
-    "Linux/Networking/ARP.md",
-    "ARP 1.md",
-    "Debian Related/Debian.md",
     "AWS/Pasted image 20230125095916.png",
     "AWS/Pasted image 20230125095916 1.png",
     "AWS/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf",
