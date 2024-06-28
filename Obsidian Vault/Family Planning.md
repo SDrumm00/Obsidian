@@ -4,7 +4,7 @@ Created:
 Subject: I want the best for my family
 ---
 ------------------
-Note LInks
+Note Links
 - [[Finance]]
 --------------
 # Abstract

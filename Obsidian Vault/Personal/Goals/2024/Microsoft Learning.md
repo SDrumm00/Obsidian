@@ -6,6 +6,7 @@ Created:
 --------------
 Note Links
 - [[2024 Learning Goals]]
+- [[Microsoft Certified - Azure Fundamentals AZ-900]]
 ---------------------------
 # Abstract
 
