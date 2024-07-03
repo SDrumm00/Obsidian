@@ -8,4 +8,3 @@ This note should open automatically as my homepage going forward. It will keep m
 - [[Career and Education Planning]]
 - [[Finance]]
 - [[Family Planning]]
-- [[Linux]]

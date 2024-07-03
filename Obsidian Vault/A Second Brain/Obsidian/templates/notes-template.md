@@ -1,5 +1,6 @@
 ---
 Created:
   - "{{date}} {{time}}"
-Subject:
+Subject: 
+tags: []
 ---

@@ -7,7 +7,7 @@ sorting:
 group: true
 ```
 
-This integration allows me to use [[Personal/Goals/2024/Zettelkasten/Learn Obsidian]] only while at my workstation and organize my larger notes and ToDo's
+This integration allows me to use [[Obsidian]] only while at my workstation and organize my larger notes and ToDo's
 
 CITE: https://github.com/jamiebrynes7/obsidian-todoist-plugin
 

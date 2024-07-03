@@ -5,7 +5,6 @@ Subject: Microsoft Azure Fundamentals - Describe Azure architecture and services
 ---
 -----------------
 Note Links:
-- [[Microsoft Certified - Azure Fundamentals AZ-900]]
 - [[Describe the core architectural components of Azure]]
 - [[Describe Azure compute and networking services]]
 - [[Describe Azure storage services]]

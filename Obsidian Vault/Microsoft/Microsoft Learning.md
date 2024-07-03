@@ -1,4 +1,4 @@
-#learning #Microsoft #certifications
+#learning #Microsoft #certifications #Microsoft/Learning
 
 Ok so I am using [[ChatGPT]] to help me create a learning plan for my development on the MS Azure platform.
 

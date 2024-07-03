@@ -5,7 +5,7 @@ Subject: MS Azure Training
 ---
 ----------------
 Note Links:
-- [[02 - Microsoft Azure Fundamentals - Describe Azure architecture and services]]
+
 -----------------
 # Unit 1 of 9 - Introduction
 

@@ -1,6 +1,5 @@
 -----------------
 Note Links:
-- [[Microsoft Certified - Azure Fundamentals AZ-900]]
 - [[Describe cloud computing]]
 - [[Describe the benefits of using cloud services]]
 - [[Describe cloud service types]]
