@@ -1,6 +1,6 @@
 Things to learn
 - [[RPM-OSTree]]
-- [[Distrobox]]
+- [[Fedora Silverblue Related/Distrobox]]
 - [[BTRFS]]
 
 Interesting Articles

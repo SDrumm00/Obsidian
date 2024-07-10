@@ -22,7 +22,7 @@ Storage location is `/home/scott/X/Backups/Software`
 	- Command (for rpm) : `rpm  -qa  |  grep  -e  (scanner-drivername)`
 
 **NOTE** 
-I had to use [[Distrobox]] to install this rpm file. Also installed simple-scan directly in the [[distrobox]] and exported it as a desktop shortcut. Also had all the dependencies installed with it from the simple-scan website which is a part of Gnome but not installed by default? weirdness...
+I had to use [[Linux/Fedora Silverblue/Distrobox]] to install this rpm file. Also installed simple-scan directly in the [[Linux/Fedora Silverblue/Distrobox]] and exported it as a desktop shortcut. Also had all the dependencies installed with it from the simple-scan website which is a part of Gnome but not installed by default? weirdness...
 
 I don't think the above NOTE is valid any more. Any issues I had have been resolved. Keeping the comment for future reference.
 

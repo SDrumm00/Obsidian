@@ -4,7 +4,7 @@ Use this cool little app to download YouTube videos locally and mash them togeth
 Here is the documentation
 https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme
 
-Here is a snippet of working code I used in my Ubuntu Distrobox container [[Distrobox]]
+Here is a snippet of working code I used in my Ubuntu Distrobox container [[Linux/Fedora Silverblue/Distrobox]]
 
 
 `youtube-dl -f bestvideo+bestaudio/best https://youtu.be/fdPu-wvl3KE`

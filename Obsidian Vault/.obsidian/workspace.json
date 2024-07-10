@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "61806542f19692f7",
+        "id": "82425e509ef962ee",
         "type": "tabs",
         "children": [
           {
-            "id": "bf508fdf8f3add8d",
+            "id": "17b2ce3d55f679f9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "My Mind.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,69 +154,43 @@
     "type": "floating",
     "children": [
       {
-        "id": "3d7d95e01efb02ba",
+        "id": "e67a90719077cc53",
         "type": "window",
         "children": [
           {
-            "id": "23c2fc450ab2ed93",
+            "id": "920c6fafcfb08c54",
             "type": "tabs",
             "children": [
               {
-                "id": "abe18ae7134317ab",
+                "id": "d9569169853b4a20",
                 "type": "leaf",
                 "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "My Mind.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": false,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 0.1875,
-                      "repelStrength": 17.7083333333333,
-                      "linkStrength": 1,
-                      "linkDistance": 289,
-                      "scale": 0.6666666666666666,
-                      "close": true
-                    }
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 3532,
-        "y": 136,
-        "width": 924,
-        "height": 1032,
+        "x": 1292,
+        "y": 56,
+        "width": 1244,
+        "height": 1360,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "abe18ae7134317ab",
+  "active": "d9569169853b4a20",
   "lastOpenFiles": [
+    "My Mind.md",
+    "Distrobox.md",
     "Learning Goals.md",
     "Personal/Goals/2024/Zettelkasten/Obsidian.md",
     "TrueNAS-SCALE/GitLab.md",
     "A Second Brain/Obsidian/Learn Obsidian.md",
     "Personal/Goals/Career and Education Planning.md",
-    "My Mind.md",
     "Personal/Goals/2024/2024 Learning Goals.md",
     "Personal/Goals/2023/2023 Learning Goals.md",
     "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900.md",
@@ -244,7 +214,6 @@
     "tags2.md",
     "tags1.md",
     "tags.md",
-    "Linux/Networking/ARP.md",
     "Pasted image 20240627110237.png",
     "Pasted image 20240627105527.png",
     "Pasted image 20240625152331.png",
