@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f7e0fa6a2caf147c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distrobox.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "My Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "My Mind.md"
+              }
             }
           }
         ],
@@ -196,7 +186,7 @@
       }
     ]
   },
-  "active": "d9569169853b4a20",
+  "active": "17b2ce3d55f679f9",
   "lastOpenFiles": [
     "Distrobox.md",
     "My Mind.md",

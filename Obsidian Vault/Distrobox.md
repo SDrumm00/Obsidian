@@ -32,3 +32,5 @@ distrobox: 1.4.2.1
 ## GUI
 Once the core application is installed, take a look at [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS)
 It can also be installed via Flatpak [HERE](https://flathub.org/apps/io.github.dvlv.boxbuddyrs)
+
+The GUI is still somewhat buggy as of this writing (20240710)
