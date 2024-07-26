@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82425e509ef962ee",
+        "id": "b153bdd7199cf294",
         "type": "tabs",
         "children": [
           {
-            "id": "17b2ce3d55f679f9",
+            "id": "9dd95345faea2e99",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -68,12 +68,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 606.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "98c3499486debf40",
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5,
-    "collapsed": true
+    "width": 437.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,43 +152,23 @@
       "random-note:Open random note": false
     }
   },
-  "floating": {
-    "id": "f89419df400a3f0b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e67a90719077cc53",
-        "type": "window",
-        "children": [
-          {
-            "id": "920c6fafcfb08c54",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d9569169853b4a20",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1292,
-        "y": 56,
-        "width": 1244,
-        "height": 1360,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "17b2ce3d55f679f9",
+  "active": "9dd95345faea2e99",
   "lastOpenFiles": [
-    "Distrobox.md",
+    "Sanoid.md",
+    "ZFS Snapshots.md",
+    "ZFS/ZFS Filesystem.md",
+    "Linux/Linux.md",
     "My Mind.md",
+    "Personal/Medications/Tremfya Prescription Refill Process.md",
+    "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 02 - Describe Azure architecture and services/Describe the core architectural components of Azure.md",
+    "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 02 - Describe Azure architecture and services/Azure Fundamentals AZ-900 - 02 - Describe Azure architecture and services.md",
+    "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 01 - Describe cloud concepts/Azure Fundamentals AZ-900 - 01 - Describe cloud concepts.md",
+    "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 01 - Describe cloud concepts/Describe cloud service types.md",
+    "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 01 - Describe cloud concepts/Describe the benefits of using cloud services.md",
+    "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 01 - Describe cloud concepts/Describe cloud computing.md",
+    "Microsoft Certified- Azure Fundamentals (AZ-900).md",
+    "Linux/Debian/Debian.md",
+    "Distrobox.md",
     "Learning Goals.md",
     "Personal/Goals/2024/Zettelkasten/Obsidian.md",
     "TrueNAS-SCALE/GitLab.md",
@@ -198,26 +177,13 @@
     "Personal/Goals/2024/2024 Learning Goals.md",
     "Personal/Goals/2023/2023 Learning Goals.md",
     "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900.md",
-    "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 01 - Describe cloud concepts/Azure Fundamentals AZ-900 - 01 - Describe cloud concepts.md",
-    "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 02 - Describe Azure architecture and services/Azure Fundamentals AZ-900 - 02 - Describe Azure architecture and services.md",
     "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 02 - Describe Azure architecture and services",
     "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 01 - Describe cloud concepts",
-    "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 02 - Describe Azure architecture and services/Describe the core architectural components of Azure.md",
-    "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 01 - Describe cloud concepts/Describe the benefits of using cloud services.md",
-    "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 01 - Describe cloud concepts/Describe cloud service types.md",
-    "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 01 - Describe cloud concepts/Describe cloud computing.md",
     "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 02 - Describe Azure architecture and services/Describe Azure compute and networking services.md",
     "Microsoft Azure Fundamentals - 03 - Describe Azure management and governance.md",
     "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900",
     "2024-04-15.md",
-    "Microsoft/Microsoft Learning.md",
     "Microsoft/Microsoft Azure",
-    "A Second Brain/Obsidian/templates/notes-template.md",
-    "A Second Brain/Obsidian/Templates.md",
-    "TrueNAS-SCALE/Cockpit Control Server.md",
-    "tags2.md",
-    "tags1.md",
-    "tags.md",
     "Pasted image 20240627110237.png",
     "Pasted image 20240627105527.png",
     "Pasted image 20240625152331.png",

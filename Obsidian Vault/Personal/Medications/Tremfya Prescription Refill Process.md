@@ -30,6 +30,7 @@ Steps to produced each time I need to refill my prescription are as follows:
 	1) My 11 digit Member ID Number is  72664691010 and it asks for my DOB
 	2) If the money is not present at this time, call them back @ 866-708-8987, Monday-Friday, 8:00 AM-8:00 PM ET
 	3) If it did, call Optum back @1-855-427-4682 - available 24/7 and have Optum complete order and deliver medication
+5) Name of drugs Tremfya 100mg/5ml
 
 ## Call History
 **20231030** - Jessica took my calls
@@ -38,4 +39,8 @@ Steps to produced each time I need to refill my prescription are as follows:
 - Had Tiana attempt to charge to the virtual payment card, it failed. She made a note that it failed and added that I will call back in about 30 minutes and try again, it will likely be a different care representative at that time. The note Tiana made will be available to the next person to complete the process.
 - 30 minutes later, I checked by balance at https://www.janssencard.com/view-your-account and found the balance on the card has been populated for the amount that Tiana charged. Calling back to complete transaction.
 - Call with Roy, refill my prescription call
-	- 
+**20240720** - call with Luiz
+- updated my insurance to Anthem BCBS and WhiteCap
+- updated order status
+- processing the copay card on file - needs to wait 30-60 minutes
+- prior authorization verification is required still 
