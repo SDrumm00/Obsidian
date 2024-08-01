@@ -44,3 +44,8 @@ Steps to produced each time I need to refill my prescription are as follows:
 - updated order status
 - processing the copay card on file - needs to wait 30-60 minutes
 - prior authorization verification is required still 
+**20240731** - took too long to get back, hopefully my order is good to go
+- Arlissa - dedicated dept that handles my CapRX stuff on Anthem.
+- contact number = 855-427-4682
+- call Dr. Andrea Costanza and get my prior auth sent out
+	- called 7312024 at 8:30am, left a vm

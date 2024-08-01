@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b153bdd7199cf294",
+        "id": "cf3de22a1c041740",
         "type": "tabs",
         "children": [
           {
-            "id": "9dd95345faea2e99",
+            "id": "7f007e0941a0cb9b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "trem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,14 +152,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9dd95345faea2e99",
+  "active": "7f007e0941a0cb9b",
   "lastOpenFiles": [
+    "Personal/Medications/Tremfya Prescription Refill Process.md",
+    "My Mind.md",
     "Sanoid.md",
     "ZFS Snapshots.md",
     "ZFS/ZFS Filesystem.md",
     "Linux/Linux.md",
-    "My Mind.md",
-    "Personal/Medications/Tremfya Prescription Refill Process.md",
     "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 02 - Describe Azure architecture and services/Describe the core architectural components of Azure.md",
     "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 02 - Describe Azure architecture and services/Azure Fundamentals AZ-900 - 02 - Describe Azure architecture and services.md",
     "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 01 - Describe cloud concepts/Azure Fundamentals AZ-900 - 01 - Describe cloud concepts.md",
