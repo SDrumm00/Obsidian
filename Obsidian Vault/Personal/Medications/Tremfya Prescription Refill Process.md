@@ -49,3 +49,6 @@ Steps to produced each time I need to refill my prescription are as follows:
 - contact number = 855-427-4682
 - call Dr. Andrea Costanza and get my prior auth sent out
 	- called 7312024 at 8:30am, left a vm
+	- Senderra called me to confirm that my insurance (Anthem BCBS) accepted my prior authorization from my Dr Costanza and we are good to continue filling the order.
+**20240805** - Calling OptumRx back
+	- Got a Tamara on the phone, she had no blockers on her end, we are just waiting on the Janssen card to fill so we can place the order. 30 minute wait
