@@ -14,12 +14,24 @@ Note Links: Tremfya
 ---
 ------------
 # Abstract
-
 It is a pain in my ass to get this prescription so I have documented below each phone as my customer journey over time. 
 
-## Process
-Based off my conversation today (20230123)
+## Details
+**Insurance:**
+- Anthem BCBS
 
+**Payment Assistance:**
+Senderra
+	CoPay Assistance:
+	- Janssen Virtual Payment Card [online](https://www.janssencard.com/)
+		- Discover Card
+	Payment Details:
+	- Visa is on file with Optum
+
+**Pharmacy:**
+- Optum Pharmacy
+
+## Process
 Steps to produced each time I need to refill my prescription are as follows:
 1) Initiate Optum phone call  @1-855-427-4682 - available 24/7 - skip the automated messenger and go to the member advocate
 	1) My Janssen payment card starts out with a zero dollar balance
@@ -52,3 +64,4 @@ Steps to produced each time I need to refill my prescription are as follows:
 	- Senderra called me to confirm that my insurance (Anthem BCBS) accepted my prior authorization from my Dr Costanza and we are good to continue filling the order.
 **20240805** - Calling OptumRx back
 	- Got a Tamara on the phone, she had no blockers on her end, we are just waiting on the Janssen card to fill so we can place the order. 30 minute wait
+	- Tamara called back, had all the billing sorted out and completed the order with no further muss or fuss.
