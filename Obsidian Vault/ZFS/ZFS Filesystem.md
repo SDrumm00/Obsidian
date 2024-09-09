@@ -2,11 +2,9 @@
 Created:
   - 20240619 8:32 PM
 Subject: The ZFS Filesystem
+Note Links: "[[ZFS]]"
+Back Links: "[[Linux]]"
 ---
--------
-Note Links:
-- [[ZFS Filesystem]]
-- [[Linux]]
 -------------
 # This file needs cleaned
 # Abstract
