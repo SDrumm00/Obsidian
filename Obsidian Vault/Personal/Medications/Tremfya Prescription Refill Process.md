@@ -65,3 +65,6 @@ Steps to produced each time I need to refill my prescription are as follows:
 **20240805** - Calling OptumRx back
 	- Got a Tamara on the phone, she had no blockers on her end, we are just waiting on the Janssen card to fill so we can place the order. 30 minute wait
 	- Tamara called back, had all the billing sorted out and completed the order with no further muss or fuss.
+20240925 - Calling about prescription refill
+- speaking with an advocate named Stacy
+- she handled it nicely and took care of everything first time so wow, it went smoothly
