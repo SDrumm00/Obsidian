@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f36e7e7f4387fc0",
+        "id": "2f73fee9a78f4e8d",
         "type": "tabs",
         "children": [
           {
-            "id": "00320e5c1f858f59",
+            "id": "7416e79c3fb991f0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "224699656e36a35d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project - Raspberry Pi Watering System.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trem",
+                "query": "water",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Mind.md",
+                "file": "Project - Raspberry Pi Watering System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Mind.md",
+                "file": "Project - Raspberry Pi Watering System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Mind.md"
+                "file": "Project - Raspberry Pi Watering System.md"
               }
             }
           }
@@ -138,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 437.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,11 +167,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "00320e5c1f858f59",
+  "active": "224699656e36a35d",
   "lastOpenFiles": [
+    "My Mind.md",
+    "Project - Raspberry Pi Watering System.md",
     "Personal/Medications/Tremfya Prescription Refill Process.md",
     "FreeBSD/Printing/Printing.md",
-    "My Mind.md",
     "Sanoid.md",
     "ZFS Snapshots.md",
     "ZFS/ZFS Filesystem.md",
@@ -181,7 +197,6 @@
     "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 02 - Describe Azure architecture and services",
     "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 01 - Describe cloud concepts",
     "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900/Azure Fundamentals AZ-900 - 02 - Describe Azure architecture and services/Describe Azure compute and networking services.md",
-    "Microsoft Azure Fundamentals - 03 - Describe Azure management and governance.md",
     "Microsoft/Microsoft Azure/Microsoft Certified - Azure Fundamentals AZ-900",
     "Microsoft/Microsoft Azure",
     "Pasted image 20240627110237.png",
